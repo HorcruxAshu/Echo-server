@@ -9,11 +9,13 @@
 2. **Compile the Java Program**:
     ```sh
     javac ReverseEchoServer.java
+    javac MutlithreadedReverseEchoServer.java 
     ```
 
 3. **Run the Server**:
     ```sh
     java ReverseEchoServer
+    java MutlithreadedReverseEchoServer
     ```
 
 4. **Connect to the Server**:
